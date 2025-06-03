@@ -7,7 +7,7 @@
 - Pedro Arão (RM - 559580)
 
 ## Video de Apresentação
-[Simular no Wokwi]([https://wokwi.com/projects/432691845362368513](https://youtu.be/a1FIAVKH1Ys))
+[Video](https://youtu.be/a1FIAVKH1Ys)
 
 ## 📌 Descrição do Problema
 
