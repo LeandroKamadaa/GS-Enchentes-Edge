@@ -6,6 +6,9 @@
 - Leandro Kamada (RM - 560381)
 - Pedro Arão (RM - 559580)
 
+## Video de Apresentação
+[Simular no Wokwi]([https://wokwi.com/projects/432691845362368513](https://youtu.be/a1FIAVKH1Ys))
+
 ## 📌 Descrição do Problema
 
 Inundações urbanas causam prejuízos econômicos, riscos à vida e desinformação da população. A ausência de um monitoramento em tempo real impede ações preventivas e respostas rápidas por parte da comunidade e autoridades.
