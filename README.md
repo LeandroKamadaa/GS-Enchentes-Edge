@@ -2,6 +2,9 @@
 
 ## Integrantes
 
+- Leonardo Pierangelli (RM - 560501)
+- Leandro Kamada (RM - 560381)
+- Pedro Arão (RM - 559580)
 
 ## 📌 Descrição do Problema
 
